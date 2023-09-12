@@ -1,0 +1,29 @@
+h1{
+    color: #ba1e1e;
+    text-align: center;
+    border-radius: 15px;
+}   
+
+body{
+    background-color: aquamarine;
+}
+
+a{
+    text-align: center;
+    color: brown;
+}
+h1{
+    background-color: #ba1e1eb6;
+    padding: 10px;
+    border: 3px solid black;
+    color: wheat;
+    margin: 30px;
+    margin-left: 90px;
+    margin-right: 90px;
+}
+p{
+    color: #000000;
+    padding: 0px;
+    border:#000000 solid aquamarine;
+    margin: 40px;
+}
